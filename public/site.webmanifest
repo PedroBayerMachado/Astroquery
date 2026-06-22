@@ -1,9 +1,11 @@
 {
   "name": "Astroquery — Data Science & Análise de Dados",
   "short_name": "Astroquery",
-  "description": "Uma plataforma para estudar Data Science & Análise de Dados.",
+  "description": "Uma plataforma completa para estudar Data Science & Análise de Dados.",
+  "id": "/?source=pwa",
   "start_url": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
@@ -15,6 +17,11 @@
     {
       "src": "/android-chrome-512x512.png",
       "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png"
     }
   ]
