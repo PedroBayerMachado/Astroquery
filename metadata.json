@@ -1,0 +1,6 @@
+{
+  "name": "Astroquery",
+  "description": "Plataforma interativa de estudos de Data Science com trilhas de aprendizado, glossário interativo, cheat sheets, simulador de SQL e gerador de desafios práticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
